@@ -118,7 +118,7 @@ Sub getWorkSheetName()
                 End If
                 If (totalVolume < maxPercentageOfDecrease) Then
                     maxPercentageOfDecrease = totalVolume
-                    mAxPercentageOfDecreasetckername = tickaername
+                    mAxPercentageOfDecreasetckername = tickername
                 End If
                 totalvol = 0
             End If
